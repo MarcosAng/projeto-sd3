@@ -40,8 +40,6 @@ public class Sale {
 		this.seller = seller;
 	}
 
-
-
 	public Long getId() {
 		return id;
 	}
